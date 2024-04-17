@@ -1,0 +1,1492 @@
+{
+    "forageableItems": [
+      {
+        "commonName": "Box Elder",
+        "latinName": "Acer negundo",
+        "edible": "Yes",
+        "type": "small to medium tree",
+        "habitat": "wetlands and other damp areas; floodplains",
+        "notes": "A species of Maple; sap may be tapped and boiled down for syrup.",
+        "regions": ["Vermont North", "New Hampshire South"],
+        "season": ["Spring", "Summer"]
+      },
+      {
+        "commonName": "Maple, Red",
+        "latinName": "Acer rubrum",
+        "edible": "Yes",
+        "type": "medium to large tree",
+        "habitat": "red maple swamps",
+        "notes": "Can be tapped for sap like Sugar Maple.",
+        "regions": ["Cape and Islands","North Shore", "South Shore", "Boston Area", "Worcester Area", "Northampton Area","Western Mass", "Rhode Island", "Connecticut East", "Connecticut West", "Connecticut South", "Vermont North", "Vermont South", "New Hampshire North", "New Hampshire South", "Maine Coast", "Maine South", "Maine North","Maine West"]
+      , "season": ["Spring"]
+      },
+      {
+        "commonName": "Maple, Silver",
+        "latinName": "Acer saccharinum",
+        "edible": "Yes",
+        "type": "medium to large tree",
+        "habitat": "forested floodplains and other wet ground",
+        "notes": "Can be tapped for sap like Sugar Maple; seeds are edible raw.",
+        "regions": ["North Shore", "Boston Area", "Worcester Area", "Northampton Area","Western Mass", "Connecticut East", "Connecticut West", "Vermont North", "Vermont South", "New Hampshire North", "New Hampshire South", "Maine South", "Maine West"]
+      ,"season": ["Spring"]
+      },
+      {
+        "commonName": "Maple, Sugar",
+        "latinName": "Acer saccharum",
+        "edible": "Yes",
+        "type": "medium to large tree",
+        "habitat": "hardwood forests; roadsides",
+        "notes": "Sap is the source of maple syrup and sugar.",
+        "regions": ["Cape","North Shore", "South Shore", "Boston Area", "Worcester Area", "Northampton Area","Western Mass", "Rhode Island", "Connecticut East", "Connecticut West", "Connecticut South", "Vermont North", "Vermont South", "New Hampshire North", "New Hampshire South", "Maine Coast", "Maine South", "Maine North","Maine West"]
+      ,"season": ["Spring"]},
+      {
+        "commonName": "Sweet Flag (Calamus)",
+        "latinName": "Acorus americanus",
+        "edible": "Yes",
+        "type": "herbaceous perennial",
+        "habitat": "wet fields and meadows; sunny wetlands; along waterways",
+        "notes": "The similarly-appearing A. calamus is apparently non-native to MA.",
+        "regions": ["North Shore", "Worcester Area", "Northampton Area","Western Mass", "Rhode Island", "Connecticut East", "Connecticut West", "Connecticut South", "Vermont North", "Vermont South", "New Hampshire North", "New Hampshire South", "Maine Coast", "Maine South", "Maine North","Maine West"]
+      ,"season": ["Spring", "Summer"]
+      },
+      {
+        "commonName": "Wild Leek (Ramps)",
+        "latinName": "Allium tricoccum",
+        "edible": "Yes",
+        "type": "herbaceous perennial",
+        "habitat": "rich, mesic woods",
+        "notes": "Over-colleConnecticuting by commercial diggers is harming ramps and habitat - pick 1 leaf/plant only.",
+        "regions": ["North Shore", "Worcester Area", "Northampton Area","Western Mass", "Rhode Island", "Connecticut East", "Connecticut West", "Connecticut South", "Vermont North", "Vermont South", "New Hampshire North", "New Hampshire South", "Maine Coast", "Maine South", "Maine North","Maine West"]
+      ,"season": ["Spring"]
+      },
+      {
+        "commonName": "Juneberry/Shadbush",
+        "latinName": "Amelanchier spp.",
+        "edible": "Yes",
+        "type": "Shrub/small tree",
+        "habitat": "likes to grow near water, but often planted in parks and other landscaped areas",
+        "notes": "Fruit ripe in late June; flavor is a cross between cherries and almonds.",
+        "regions": ["North Shore", "Worcester Area", "Northampton Area", "Rhode Island", "Connecticut East", "Connecticut West", "Connecticut South", "Vermont North", "Vermont South", "New Hampshire North", "New Hampshire South", "Maine Coast", "Maine South", "Maine North", "Maine West"]
+,"season": ["Spring"]
+      },
+      {
+        "commonName": "Hog Peanut",
+        "latinName": "Amphicarpaea braConnecticuteata",
+        "edible": "Yes",
+        "type": "herbaceous perennial vine",
+        "habitat": "damp spots in woods with some sun; often on old woods roads",
+        "notes": "Small subterranean seeds are available from late summer onward; tiny peas may be edible too.",
+        "regions": ["North Shore", "Worcester Area", "Northampton Area", "Rhode Island", "Connecticut East", "Connecticut West", "Connecticut South", "Vermont North", "Vermont South", "New Hampshire North", "New Hampshire South", "Maine Coast", "Maine South", "Maine North", "Maine West"]
+      ,"season": ["Summer", "Fall"]},
+      {
+        "commonName": "Angelica",
+        "latinName": "Angelica atropurpurea",
+        "edible": "Yes",
+        "type": "herbaceous perennial to 6 ft - large spherical flower cluster",
+        "habitat": "wet ground along rivers and streams, in full or partial sun",
+        "notes": "Tender, emerging leaves are edible raw or cooked, young, boiled stems are sometimes candied.",
+        "regions": ["North Shore", "Worcester Area", "Northampton Area", "Rhode Island", "Connecticut East", "Connecticut West", "Connecticut South", "Vermont North", "Vermont South", "New Hampshire North", "New Hampshire South"]
+      ,"season": ["Spring", "Summer"]},
+      {
+        "commonName": "Seacoast Angelica",
+        "latinName": "Angelica lucida",
+        "edible": "Yes",
+        "type": "herbaceous perennial",
+        "habitat": "rocky areas near the ocean",
+        "notes": "Tender, emerging leaves are edible raw or cooked.",
+        "regions": ["North Shore", "Maine Coast", "Rhode Island"]
+      },
+      {
+        "commonName": "Groundnut",
+        "latinName": "Apios americana",
+        "edible": "Yes",
+        "type": "herbaceous perennial vine",
+        "habitat": "damp sandy, open areas, often near waterways",
+        "notes": "Edible tubers (available year-round) and beans.",
+        "regions": ["North Shore", "Worcester Area", "Northampton Area", "Rhode Island", "Connecticut East", "Connecticut West", "Connecticut South", "Vermont North", "Vermont South", "New Hampshire North", "New Hampshire South", "Maine Coast", "Maine South", "Maine North", "Maine West"]
+      ,"season": ["Spring", "Summer"]},
+          {
+            "commonName": "Spikenard, American",
+            "latinName": "Aralia racemosa",
+            "edible": "Yes",
+            "type": "herbaceous perennial",
+            "habitat": "rich, often rocky, deciduous forests, growing on moist soils",
+            "notes": "Ripe berries are edible, and aromatic roots can be used to make a root beer-like beverage.",
+            "regions": ["North Shore", "Worcester Area", "Northampton Area", "Vermont North", "Vermont South", "New Hampshire North", "New Hampshire South", "Maine West"]
+
+         ,"season": ["Fall", "Summer"] },
+          {
+            "commonName": "Silverweed, Saltmarsh",
+            "latinName": "Argentina",
+            "edible": "Yes",
+            "type": "herbaceous perennial",
+            "habitat": "salt marshes",
+            "notes": "Starchy root is edible - leaves may be used for tea. A closely-related species (A. anserina) may grow elsewhere.",
+            "regions": ["Rhode Island", "Maine Coast", "Connecticut South"]
+
+          },
+          {
+            "commonName": "Chokeberry, Black",
+            "latinName": "Aronia melanocarpa",
+            "edible": "Yes",
+            "type": "small shrub",
+            "habitat": "sunny, usually damp soil; can tolerate rocky, acidic conditions",
+            "notes": "At its best, its flavor only tolerable as a raw fruit, but flavor is improved by cooking/sweetening.",
+            "regions": ["North Shore", "Worcester Area", "Northampton Area", "Connecticut East", "Connecticut West", "Vermont North", "Vermont South", "New Hampshire North", "New Hampshire South", "Maine South", "Maine North", "Maine West"]
+
+          },
+          {
+            "commonName": "Wild Ginger",
+            "latinName": "Asarum canadense",
+            "edible": "Yes",
+            "type": "herbaceous perennial",
+            "habitat": "rich, mesic woods",
+            "notes": "While the plant's roots give off a gingery aroma, the plant has carcinogens so eat sparingly.",
+            "regions":["North Shore", "Worcester Area", "Northampton Area", "Vermont North", "Vermont South", "New Hampshire North", "New Hampshire South", "Maine North", "Maine West"]
+
+          },
+          {
+            "commonName": "Milkweed, Common",
+            "latinName": "Asclepias syriaca",
+            "edible": "Yes",
+            "type": "herbaceous perennial",
+            "habitat": "old fields; field edges; roadsides",
+            "notes": "The plant has at least four parts that are edible after boiling 7 minutes.",
+            "regions": ["North Shore", "Worcester Area", "Northampton Area", "Connecticut East", "Connecticut West", "Connecticut South", "Vermont North", "Vermont South", "New Hampshire North", "New Hampshire South", "Maine South", "Maine West"]
+
+          },
+          {
+            "commonName": "Pawpaw",
+            "latinName": "Asimina triloba",
+            "edible": "No",
+            "type": "small tree (to 20 ft.)",
+            "habitat": "understory tree in rich woods",
+            "notes": "Non-native to MA - Native to Zone 7+, but will grow in sheltered microclimates to Zone 5.",
+            "regions": ["North Shore", "Worcester Area", "Northampton Area","Cape and Islands"]
+          },
+          {
+            "commonName": "Orache",
+            "latinName": "Atriplex spp.",
+            "edible": "Yes",
+            "type": "annual herb",
+            "habitat": "Grows at/just above the 'wrack' (high tide) line",
+            "notes": "A. patula is non-native to MA; A. cristata and littoralis are native; young leaves are edible.",
+            "regions": ["Rhode Island", "Maine Coast", "Connecticut South"]
+
+          },
+          {
+            "commonName": "Yellow Birch",
+            "latinName": "Betula alleghaniensis",
+            "edible": "Yes",
+            "type": "medium to large tree",
+            "habitat": "hardwood forests",
+            "notes": "Peeled twigs used for tea - sap can be drunk or boiled down to a molasses-like syrup.",
+            "regions": ["North Shore", "Worcester Area", "Northampton Area", "Vermont North", "Vermont South", "New Hampshire North", "New Hampshire South", "Maine North", "Maine West"]
+
+          },
+          {
+            "commonName": "Black Birch",
+            "latinName": "Betula lenta",
+            "edible": "Yes",
+            "type": "medium to large tree",
+            "habitat": "pioneer species for cleared areas and regenerating forest",
+            "notes": "Peeled twigs used for tea - sap can be drunk or boiled down to a molasses-like syrup.",
+            "regions": ["North Shore", "Worcester Area", "Northampton Area", "Vermont North", "Vermont South", "New Hampshire North", "New Hampshire South", "Maine North", "Maine West"]
+
+          },
+          {
+            "commonName": "Sea Rocket",
+            "latinName": "Cakile edentula",
+            "edible": "Yes",
+            "type": "low-growing, herbaceous, succulent plant",
+            "habitat": "on beaches, between the wrack line and the dune",
+            "notes": "Leaves of this mustard family plant have a sharp, wasabi-like flavor - pick a few leaves/plant only.",
+            "regions":["Rhode Island", "Maine Coast", "Connecticut South"]
+
+          },
+        {
+                "commonName": "Alpine Bistort",
+                "latinName": "Bistorta vivipara (Polygonum viviparum)",
+                "edible": "No",
+                "type": "herbaceous perennial",
+                "habitat": "mountain summits and open rocky cold areas",
+                "notes": "Only occurs in colder microclimates in northern New England + further north - 'rare' status in ME+New Hampshire.",
+                "regions": ["Vermont North", "New Hampshire North", "Maine North"]
+
+              },
+              {
+                "commonName": "Marsh Marigold (Cowslip)",
+                "latinName": "Caltha palustris",
+                "edible": "Yes",
+                "type": "herbaceous perennial - spring ephemeral wildflower",
+                "habitat": "wooded swamps, usually near small streams",
+                "notes": "Young leaves harvested sparingly before the plants bloom are edible after boiling.",
+                "regions": ["North Shore", "Worcester Area", "Northampton Area", "Connecticut East", "Connecticut West", "Vermont North", "Vermont South", "New Hampshire North", "New Hampshire South", "Maine South", "Maine West"]
+
+              },
+              {
+                "commonName": "Toothwort",
+                "latinName": "Cardamine (Dentaria) spp.",
+                "edible": "Yes",
+                "type": "herbaceous perennial - spring ephemeral wildflower",
+                "habitat": "understory plant in rich woods",
+                "notes": "Root has horseradish flavor - be careful not to disturb listed (proteConnecticuted) species in the genus.",
+                "regions":["North Shore", "Worcester Area", "Northampton Area", "Vermont North", "Vermont South", "New Hampshire North", "New Hampshire South", "Maine North", "Maine West"]
+
+              },
+              {
+                "commonName": "Pennsylvania Bitter-Cress",
+                "latinName": "Cardamine pensylvanica",
+                "edible": "Yes",
+                "type": "herbaceous annual or biennial",
+                "habitat": "wetlands, muddy river/lake/pond banks",
+                "notes": "Raw and briefly cooked plant taste somewhat like Horseradish (a relative).",
+                "regions":["Connecticut South"],
+                "season": ["Spring", "Summer"]
+            
+              },
+              {
+                "commonName": "Pignut Hickory",
+                "latinName": "Carya glabra",
+                "edible": "Yes",
+                "type": "medium to large tree",
+                "habitat": "woods and woods/field edges; more common in southern New England",
+                "notes": "Ripe nuts are edible and usually have a nice flavor; C. ovata nuts are more reliably larger and tastier.",
+                "regions":["Connecticut East", "Connecticut West", "Connecticut South", "Rhode Island", "Worcester Area", "North Shore"],
+                "season":["Summer", "Fall"]
+              },
+              {
+                "commonName": "Hickory, Shagbark",
+                "latinName": "Carya ovata",
+                "edible": "Yes",
+                "type": "medium to large tree",
+                "habitat": "roadsides, field edges, hardwood forests",
+                "notes": "Best trees for foraging are in the open and get lots of sun - nuts ripen in late Sep. through mid OConnecticut.",
+                "regions":["North Shore", "Worcester Area", "Northampton Area", "Connecticut East", "Connecticut West", "Vermont North", "Vermont South", "New Hampshire North", "New Hampshire South", "Maine South", "Maine West"],
+                "season":["Fall"]
+              },
+              {
+                "commonName": "Chestnut, American",
+                "latinName": "Castanea dentata",
+                "edible": "Yes",
+                "type": "small to medium tree (before blight hits them)",
+                "habitat": "hardwood forests; field edges; roadsides",
+                "notes": "Trees > 20 feet tall in good sunlight can produce viable nuts before blight hits.",
+                "regions":["North Shore", "Worcester Area", "Northampton Area", "Connecticut East", "Connecticut West", "Vermont North", "Vermont South", "New Hampshire North", "New Hampshire South", "Maine South", "Maine West"],
+                "season":["Fall"]
+        
+              },
+              {
+                "commonName": "New Jersey Tea",
+                "latinName": "Ceanothus americanus",
+                "edible": "Yes",
+                "type": "herb",
+                "habitat": "fields and field and road edges",
+                "notes": "Leaves used for tea - roots host symbiotic baConnecticuteria that can fix nitrogen for plant uptake.",
+                "regions":["North Shore", "Worcester Area", "Northampton Area", "Connecticut East", "Connecticut West", "Vermont North", "Vermont South", "New Hampshire North", "New Hampshire South", "Maine South", "Maine West"],
+                "season":["Spring","Summer"]
+              },
+              {
+                "commonName": "Hackberry",
+                "latinName": "Celtis occidentalis",
+                "edible": "Yes",
+                "type": "medium-sized tree",
+                "habitat": "damp areas with some good sun exposure; will grow near water, including seacoast",
+                "notes": "Both thin-fleshed fruit and starchy seed are edible.",
+                "regions":["North Shore", "Rhode Island", "Connecticut South", "Maine Coast"],
+                "season":["Fall", "Summer"]
+              },
+              {
+                "commonName": "Redbud",
+                "latinName": "Cercis canadensis",
+                "edible": "No",
+                "type": "small tree (to 15 feet)",
+                "habitat": "understory tree in limey or fertile soil",
+                "notes": "Not native to MA - Found only in SW N.E. + further south.",
+                "regions": ["Connecticut South"],
+                "season":["Fall"]
+              },
+              {
+                "commonName": "Bunchberry",
+                "latinName": "Chamaepericlymenum canadense",
+                "edible": "Yes",
+                "type": "ground cover about 5-6\" high",
+                "habitat": "northern and otherwise cooler woodlands; likes some sun",
+                "notes": "Red berries are almost tasteless but edible.",
+                "regions":["North Shore", "Worcester Area", "Northampton Area", "Vermont North", "New Hampshire North", "Maine North"],
+                "season":["Summer"]
+              },
+              {
+                "commonName": "Fireweed",
+                "latinName": "Chamerion (Epilobium) angustifolium",
+                "edible": "Yes",
+                "type": "herbaceous perennial",
+                "habitat": "pioneer species following fires or clearcuts - like cool climate",
+                "notes": "Young shoots and pith in older stems are edible.",
+                "regions":["Vermont North", "New Hampshire North", "Maine North"],
+                "season":["Spring","Summer"]
+              },
+              {
+                "commonName": "Strawberry-Blite",
+                "latinName": "Chenopodium capitatum",
+                "edible": "No",
+                "type": "annual",
+                "habitat": "rocky areas, esp. near the ocean",
+                "notes": "More likely to be spotted in northern New England and further northward.",
+                "regions":["Vermont North", "New Hampshire North", "Maine North"],
+                "season":["Summer"]
+              },
+              {
+                "commonName": "Spring Beauty",
+                "latinName": "Claytonia virginica + caroliniana",
+                "edible": "Yes*",
+                "type": "herbaceous perennial - spring ephemeral wildflower",
+                "habitat": "rich woods and wooded floodplains - generally not found in acidic soils",
+                "notes": "*C. virginica listed as endangered in MA - edible tubers (\"fairy spuds\") and foliage",
+                "regions": ["Worcester Area", "Northampton Area", "Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+                "season":["Spring"]
+              },
+              {
+                "commonName": "Clintonia (Corn Lily or Blue Bead Lily)",
+                "latinName": "Clintonia borealis",
+                "edible": "Yes",
+                "type": "herbaceous perennial ground cover",
+                "habitat": "common in acidic woodlands in N. NE and cool woods further S",
+                "notes": "Young (to 3\") leaves are edible and taste like cucumber.",
+                "regions": ["Vermont North", "New Hampshire North", "Maine North"],
+                "season":["Spring","Summer"]
+              },
+              {
+                "commonName": "Sweet Fern",
+                "latinName": "Comptonia peregrina",
+                "edible": "Yes",
+                "type": "Small shrub",
+                "habitat": "open areas; sandy/gravelly soil",
+                "notes": "Leaves used for tea; small seeds are edible too - roots host symbiotic baConnecticuteria that fix nitrogen.",
+                "regions":["North Shore", "Worcester Area", "Northampton Area", "Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+                "season":["Fall", "Spring","Summer"]
+    },
+    {
+        "commonName": "Hazelnut, Common",
+        "latinName": "Corylus americana",
+        "edible": "Yes",
+        "type": "shrub",
+        "habitat": "old fields, clearings, roadsides, often under power lines",
+        "notes": "Nuts are ripe the second week of September.",
+        "regions":["North Shore", "Worcester Area", "Northampton Area", "Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+        "season":["Fall"]
+      },
+      {
+        "commonName": "Hazelnut, Beaked",
+        "latinName": "Corylus cornuta",
+        "edible": "Yes",
+        "type": "shrub",
+        "habitat": "old fields, clearings, roadsides, often under power lines",
+        "notes": "Overlaps with but tends to range further north than C. americana.",
+        "regions":["Vermont North", "New Hampshire North", "Maine North"],
+                "season":["Fall"]
+      },
+      {
+        "commonName": "Hawthorn",
+        "latinName": "Crataegus spp.",
+        "edible": "Yes*",
+        "type": "medium to large shrub",
+        "habitat": "old fields and field edges",
+        "notes": "Fruits are red when ripe and vary in size and flavor.",
+        "regions":["North Shore", "Worcester Area", "Northampton Area", "Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+                "season":["Fall"]
+      },
+      {
+        "commonName": "Persimmon",
+        "latinName": "Diospyros virginiana",
+        "edible": "No*",
+        "type": "medium-sized tree",
+        "habitat": "old fields",
+        "notes": "Non-native to MA - Native to Zone 7+ but will grow in lower-numbered zones in suitable microclimates.",
+        "regions":["Connecticut East", "South Shore","North Shore","Cape and Islands"],
+                "season":["Fall"]
+      },
+      {
+        "commonName": "Black Crowberry",
+        "latinName": "Empetrum nigrum",
+        "edible": "No*",
+        "type": "low-growing perennial",
+        "habitat": "found on exposed mountain tops and ridges - higher elevations in northern N.E.",
+        "notes": "Small fruit is edible but not particularly yummy.",
+        "regions":["Vermont North", "New Hampshire North", "Maine North"],
+                "season":["Summer","Fall"]
+      },
+      {
+        "commonName": "Trailing Arbutus (Mayflower)",
+        "latinName": "Epigaea repens",
+        "edible": "Yes",
+        "type": "prostrate plant",
+        "habitat": "openings in acidic woodlands; sloping sides of paths and woods roads - likes some sun",
+        "notes": "Edible part are the spicy-scented flowers, which are the state flower of MA.",
+        "regions": ["North Shore", "Worcester Area", "Northampton Area", "Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+                "season":["Spring"]
+      },
+      {
+        "commonName": "Trout Lily, Dogtooth Violet",
+        "latinName": "Erythronium americanum",
+        "edible": "Yes",
+        "type": "herbaceous perennial - spring ephemeral wildflower",
+        "habitat": "rich woods; wooded floodplains; woods with rich humus layer",
+        "notes": "Cooked bulbs are edible; raw plant is reputedly nausea-inducing if you eat too much.",
+        "regions":["Worcester Area", "Northampton Area", "Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+        "season":["Spring"]
+      },
+      {
+        "commonName": "Beech",
+        "latinName": "Fagus grandifolia",
+        "edible": "Yes",
+        "type": "medium to large tree",
+        "habitat": "often found in hardwood forests",
+        "notes": "Nuts ripen in September; best trees for foraging grow in the open.",
+        "regions": ["North Shore", "Worcester Area", "Northampton Area", "Connecticut East", "Connecticut West", "Vermont North", "Vermont South", "New Hampshire North", "New Hampshire South", "Maine West"],
+        "season": ["Fall"]
+      },
+      {
+        "commonName": "Wild Strawberry",
+        "latinName": "Fragaria vesca",
+        "edible": "Yes",
+        "type": "herbaceous perennial",
+        "habitat": "dappled sunlight along woods roads and woodland clearings",
+        "notes": "Small but tasty fruit; seeds stick out (on F. virginiana, seeds are indented into the fruit).",
+        "regions": ["North Shore", "Worcester Area", "Northampton Area", "Connecticut East", "Vermont South", "New Hampshire South", "Maine South"],
+        "season": ["Late Spring", "Early Summer"]
+      },
+      {
+        "commonName": "Wild Strawberry",
+        "latinName": "Fragaria virginiana",
+        "edible": "Yes",
+        "type": "herb to 4\" high",
+        "habitat": "old fields; mowed areas; roadsides",
+        "notes": "The fruit is small but delectable; species likes cooler climates.",
+        "regions": ["Worcester Area", "Northampton Area", "Vermont North", "Vermont South", "New Hampshire North", "Maine North"],
+        "season": ["Late Spring", "Early Summer"]
+      },
+      {
+        "commonName": "Creeping Snowberry",
+        "latinName": "Gaultheria hispidula",
+        "edible": "Yes",
+        "type": "prostrate, diminutive vine",
+        "habitat": "cool, partial-to-full sun spots - often on old tree stumps",
+        "notes": "White berries the same size and flavor of wintergreen 'Tic-Tacs'.",
+        "regions": ["Vermont North", "New Hampshire North", "Maine North"],
+        "season": ["Summer"]
+      },
+      {
+        "commonName": "Wintergreen",
+        "latinName": "Gaultheria procumbens",
+        "edible": "Yes",
+        "type": "perennial to 5\" high",
+        "habitat": "ground cover in acidic woodlands - can tolerate sun",
+        "notes": "Leaves used for tea - berries also edible (though not very sweet).",
+        "regions": ["North Shore", "Worcester Area", "Northampton Area", "Connecticut East", "Vermont South", "New Hampshire South", "Maine South"],
+        "season": ["Summer", "Fall"]
+      },
+      {
+        "commonName": "Huckleberry, Black",
+        "latinName": "Gaylussacia baccata",
+        "edible": "Yes",
+        "type": "small shrub (to 3' tall)",
+        "habitat": "acidic woodlands and clearings common understory plant in oak forests",
+        "notes": "Black fruit ripens a bit later than blueberries.",
+        "regions": ["Worcester Area", "Northampton Area", "Vermont North", "New Hampshire North", "Maine North"],
+        "season": ["Late Summer"]
+      },
+      {
+        "commonName": "Dangleberry (Blue Huckleberry)",
+        "latinName": "Gaylussacia frondosa",
+        "edible": "Yes",
+        "type": "Shrub",
+        "habitat": "understory plant in damp woods - occasionally grows in the open or partial shade",
+        "notes": "Blue fruit ripens several weeks after the blueberries.",
+        "regions": ["Vermont North", "New Hampshire North", "Maine North"],
+        "season": ["Late Summer"]
+      },
+      {
+        "commonName": "Water or Purple Avens",
+        "latinName": "Geum rivale",
+        "edible": "Yes",
+        "type": "perennial herb",
+        "habitat": "likes wet meadowy ground; can tolerate a bit of shade",
+        "notes": "Root can supposedly be used to make a chocolate-like drink.",
+        "regions": ["Vermont North", "New Hampshire North", "Maine West"],
+        "season": ["Spring", "Early Summer"]
+      },
+      {
+        "commonName": "Jerusalem Artichoke",
+        "latinName": "Helianthus tuberosus",
+        "edible": "Yes*",
+        "type": "herbaceous perennial",
+        "habitat": "field edges floodplains; likes full sun",
+        "notes": "A Sunflower cousin with edible tubers. *Although here in 1620, species originated in Central N. America.",
+        "regions": ["North Shore", "Worcester Area", "Northampton Area", "Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+        "season": ["Fall"]
+      },      
+
+{
+  "commonName": "Cow Parsnip",
+  "latinName": "Heracleum maximum",
+  "edible": "Yes",
+  "type": "herbaceous",
+  "habitat": "wet meadows, stream banks, roadside ditches",
+  "notes": "Young leaves and stems are edible, preferably boiled to reduce the strongly aromatic flavor.",
+  "regions": ["North Shore", "Worcester Area", "Northampton Area", "Connecticut East", "Connecticut West", "Vermont North", "Vermont South", "New Hampshire North", "New Hampshire South", "Maine West"],
+  "season": ["Spring", "Early Summer"]
+},
+{
+  "commonName": "Rose Mallow",
+  "latinName": "Hibiscus moscheutos",
+  "edible": "Yes",
+  "type": "shrub",
+  "habitat": "in wet open meadows or in wet ground along waterways",
+  "notes": "Species is related to Marsh Mallow (Althaea officinalis), for which the confection was named.",
+  "regions": ["Connecticut South", "Rhode Island", "Maine Coast"],
+  "season": ["Summer"]
+},
+{
+  "commonName": "Beach Greens (Seabeach Sandwort)",
+  "latinName": "Honckenya peploides",
+  "edible": "Yes",
+  "type": "annual?",
+  "habitat": "Grows in sandy areas near high tide line",
+  "notes": "Entire green part of the plant is edible.",
+  "regions": ["Maine Coast", "Rhode Island"],
+  "season": ["Spring", "Summer"]
+},
+{
+  "commonName": "Waterleaf, Virginia",
+  "latinName": "Hydrophyllum virginianum",
+  "edible": "Yes",
+  "type": "herb",
+  "habitat": "rich woods",
+  "notes": "Is sporadic in N.E.; more common S. + W. - the related H. canadense is listed as Endangered in MA.",
+  "regions": ["Vermont South", "New Hampshire South", "Maine South"],
+  "season": ["Spring", "Early Summer"]
+},
+{
+  "commonName": "Jewelweed",
+  "latinName": "Impatiens biflora or pallida",
+  "edible": "Yes",
+  "type": "annual",
+  "habitat": "damp meadows and woodlands; doesn't like full sun",
+  "notes": "Edible seeds taste like walnuts.",
+  "regions": ["North Shore", "Worcester Area", "Northampton Area", "Connecticut East", "Vermont South", "New Hampshire South", "Maine South"],
+  "season": ["Summer", "Early Fall"]
+},
+{
+  "commonName": "Butternut/White Walnut",
+  "latinName": "Juglans cinerea",
+  "edible": "Yes",
+  "type": "medium-sized tree (to 40 ft.)",
+  "habitat": "old fields; field edges; roadsides",
+  "notes": "Nut inside egg-shaped husks/shells are milder than Black Walnuts.",
+  "regions": ["Connecticut East", "Connecticut West", "Rhode Island", "Worcester Area", "Northampton Area"],
+  "season": ["Fall"]
+},
+{
+  "commonName": "Black Walnut",
+  "latinName": "Juglans nigra",
+  "edible": "No*",
+  "type": "medium to large tree",
+  "habitat": "old fields; field edges/roadsides",
+  "notes": "*Not considered native to MA (native further S.) but now grows wild there - nuts ripen in October.",
+  "regions": ["Connecticut South", "Rhode Island"],
+  "season": ["Fall"]
+},
+{
+  "commonName": "Wild Lettuce",
+  "latinName": "Lactuca canadensis",
+  "edible": "Yes",
+  "type": "annual",
+  "habitat": "field edges; old fields; woods road edges; roadsides",
+  "notes": "Of the several wild species of Lactuca, this is the most palatable.",
+  "regions": ["North Shore", "Worcester Area", "Northampton Area", "Connecticut East", "Connecticut West", "Vermont North", "Vermont South", "New Hampshire North", "New Hampshire South", "Maine West"],
+  "season": ["Summer"]
+},
+{
+  "commonName": "Wood Nettle",
+  "latinName": "Laportea canadensis",
+  "edible": "Yes",
+
+"type": "herbaceous perennial",
+  "habitat": "understory plant under hardwoods, usually mesic or damp soils",
+  "notes": "Can be harvested and used (eaten after cooking) in similar fashion to Stinging Nettle, Urtica dioica.",
+  "regions": ["Vermont North", "New Hampshire North", "Maine North"],
+  "season": ["Spring", "Summer"]
+},
+{
+  "commonName": "Beach Pea",
+  "latinName": "Lathyrus japonicus var. maritimus",
+  "edible": "Yes",
+  "type": "annual",
+  "habitat": "dunes and other seaside areas above high tide line",
+  "notes": "The shoots + tender green peas inside the pods are edible cooked, in moderation.",
+  "regions": ["Maine Coast", "Rhode Island"],
+  "season": ["Spring", "Early Summer"]
+},
+{
+  "commonName": "Scotch Lovage",
+  "latinName": "Ligusticum scoticum",
+  "edible": "Yes",
+  "type": "herbaceous perennial",
+  "habitat": "rocky areas near the ocean",
+  "notes": "Young leaves, stems taste like cultivated lovage (a relative of celery).",
+  "regions": ["Maine Coast", "Rhode Island"],
+  "season": ["Spring", "Summer"]
+},
+{
+  "commonName": "Canada Lily",
+  "latinName": "Lilium canadense",
+  "edible": "Yes",
+  "type": "herbaceous perennial",
+  "habitat": "stream+ river banks, wetland borders, high-terrace floodplain forests, roadsides",
+  "notes": "Bulbs are edible raw or cooked, but plant is rarely abundant and too pretty to pick.",
+  "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+  "season": ["Summer"]
+},
+  {
+    "commonName": "Spicebush",
+    "latinName": "Lindera benzoin",
+    "edible": "Yes",
+    "type": "shrub (to 12 ft. tall)",
+    "habitat": "understory tree in acidic hardwoods, esp, near small streams",
+    "notes": "Twigs used for tea; berries may be dried + ground up for a Szechuan pepper-like seasoning.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Spring", "Summer"]
+  },
+  {
+    "commonName": "Northern/Mountain Fly Honeysuckle (Waterberry)",
+    "latinName": "Lonicera villosa",
+    "edible": "Yes",
+    "type": "small shrub",
+    "habitat": "rich woods",
+    "notes": "Occurs more frequently in northern than southern New England.",
+    "regions": ["Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Spring", "Summer"]
+  },
+  {
+    "commonName": "Bugleweed/Water Horehound",
+    "latinName": "Lycopus uniflorus",
+    "edible": "Yes",
+    "type": "herbaceous perennial",
+    "habitat": "damp meadows and pond shores",
+    "notes": "A tuber-bearing wild mint - tubers are edible raw or cooked.",
+    "regions": ["Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Canada Mayflower (False Lily of the Valley)",
+    "latinName": "Maianthemum canadense",
+    "edible": "Yes",
+    "type": "herbaceous diminutive perennial ground cover",
+    "habitat": "acidic woodlands - tolerates shade well",
+    "notes": "Small red berries are edible but reputedly cathartic in large amounts.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "Maine South"],
+    "season": ["Spring", "Summer"]
+  },
+  {
+    "commonName": "False Solomon's Seal",
+    "latinName": "Maianthemum or Smilacina racemosum",
+    "edible": "Yes",
+    "type": "herbaceous perennial",
+    "habitat": "hardwood forests with rich humus layer",
+    "notes": "Edible shoots and berries (reputedly cathartic in large amounts).",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "Maine South"],
+    "season": ["Spring", "Summer"]
+  },
+  {
+    "commonName": "Starry False Solomon's Seal",
+    "latinName": "Maianthemum stellatum",
+    "edible": "Yes",
+    "type": "herbaceous perennial",
+    "habitat": "understory plant, in partial shade - most commonly encountered near the coast",
+    "notes": "Shoots and ripe berries are edible; flowers and berries are larger and prettier than M. racemosa.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Spring", "Summer"]
+  },
+  {
+    "commonName": "Ostrich Fern",
+    "latinName": "Matteuccia struthiopteris",
+    "edible": "Yes",
+    "type": "herbaceous perennial fern",
+    "habitat": "alluvial (silty) floodplain soil esp. in less acidic areas",
+    "notes": "Edible fiddleheads available in April; unsafe to eat raw.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Spring"]
+  },
+  {
+    "commonName": "Indian Cucumber",
+    "latinName": "Medeola virginiana",
+    "edible": "Yes",
+    "type": "herbaceous perennial",
+    "habitat": "acidic, damp woods with rich humus layer",
+    "notes": "Harvesting the edible root kills the plant, so use sparingly - also don't pick rare orchid lookalike.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "Maine South"],
+    "season": ["Spring", "Summer"]
+  },
+  {
+    "commonName": "Oysterleaf",
+    "latinName": "Mertensia maritima",
+    "edible": "Yes*",
+    "type": "herb",
+    "habitat": "rocky/shelly areas just above the high tide line",
+    "notes": "*Listed as Endangered in MA; more common in Northern/downeast Maine + further N. - leaves edible.",
+    "regions": ["Maine South"],
+    "season": ["Spring", "Summer"]
+  },
+  {
+    "commonName": "Partridgeberry",
+    "latinName": "Mitchella repens",
+    "edible": "Yes",
+    "type": "herbaceous perennial",
+    "habitat": "ground cover in acidic woods, typically under pines/hemlocks",
+    "notes": "Pretty red berries are edible (but have almost no flavor).",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Spring", "Summer"]
+  },
+  {
+    "commonName": "Wild Bergamot",
+    "latinName": "Monarda fistulosa",
+    "edible": "Yes",
+    "type": "herbaceous perennial",
+    "habitat": "field edges and roadsides - likes sun",
+    "notes": "Leaves used for tea and/or seasoning.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Bayberry",
+    "latinName": "Morella caroliniensis (form. Myrica pensylvanica)",
+    "edible": "Yes",
+    "type": "Shrub",
+    "habitat": "open areas; sandy soil",
+    "notes": "Fresh leaves can be used as a substitute for commercial bay leaves.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Mulberry, Red",
+    "latinName": "Morus rubra",
+    "edible": "Yes*",
+    "type": "Small to medium tree",
+    "habitat": "field edges; roadsides; tolerant of urban conditions",
+    "notes": "*Native species (M. rubra) listed as Endangered in MA; non-native M. alba is common - hybrids also.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Sweet Gale",
+    "latinName": "Myrica gale",
+    "edible": "Yes",
+    "type": "small shrub",
+    "habitat": "in acidic swamps and along waterways",
+    "notes": "Aromatic leaves used for tea - roots host symbiotic baConnecticuteria that can fix nitrogen for plant uptake.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Spring", "Summer"]
+  },
+  {
+    "commonName": "Lotus, American",
+    "latinName": "Nelumbo lutea",
+    "edible": "No",
+    "type": "herbaceous perennial aquatic emergent",
+    "habitat": "shallow ponds and open marshy/swampy areas",
+    "notes": "*Not native in MA; Native to Zone 7 or higher but will grow in Zone 5 - edible seeds + tubers.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Spatterdock, Cow Lily",
+    "latinName": "Nuphar variegata",
+    "edible": "Yes",
+    "type": "herbaceous perennial aquatic plant",
+    "habitat": "shallow portions of lakes, ponds and slow-moving rivers",
+    "notes": "Ripe seeds can reportedly be roasted in a skillet like popcorn.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Spring", "Summer"]
+  },
+  {
+    "commonName": "White Water Lily",
+    "latinName": "Nymphaea spp.",
+    "edible": "Yes",
+    "type": "aquatic plant",
+    "habitat": "shallow areas of lakes and ponds",
+    "notes": "Flower buds are edible boiled; other parts of the plants may also be edible.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Evening Primrose",
+    "latinName": "Oenothera biennis",
+    "edible": "Yes",
+    "type": "biennial",
+    "habitat": "old + cultivated fields, roadsides, above high tide line",
+    "notes": "A native weed with an edible root after cooking; other tender parts of the plant are also edible.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Eastern Prickly Pear",
+    "latinName": "Opuntia humifusa",
+    "edible": "Yes*",
+    "type": "small caConnecticutus",
+    "habitat": "dunes, barrier beaches and other sandy areas near ocean",
+    "notes": "*Listed as endangered in MA and very uncommon in the wild in N.E.; more common further south.",
+    "regions": ["Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Sweet Cicely; Aniseroot",
+    "latinName": "Osmorhiza longistylis",
+    "edible": "Yes",
+    "type": "herbaceous perennial",
+    "habitat": "rich woods; river floodplains; tolerates shade well",
+    "notes": "Whole plant smells and tastes like licorice; closely related species (O. claytonii) does not.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Spring", "Summer"]
+  },
+  {
+    "commonName": "Wood Sorrel, Mountain or White",
+    "latinName": "Oxalis montana",
+    "edible": "Yes",
+    "type": "herb to 3\" high",
+    "habitat": "ground cover in acidic damp conifer woodlands",
+    "notes": "Common in White Mountains; less common further south.",
+    "regions": ["New Hampshire South", "Maine South"],
+    "season": ["Spring", "Summer"]
+  },
+  {
+    "commonName": "Wood Sorrel, Violet",
+    "latinName": "Oxalis violacea",
+    "edible": "Yes*",
+    "type": "herbaceous perennial",
+    "habitat": "grows on ridges and rocky slopes under a partially open forest canopy",
+    "notes": "*This is a listed (uncommon) species in New England, so should not be gathered from the wild."
+  },
+  {
+    "commonName": "Mountain Sorrel",
+    "latinName": "Oxyria digyna",
+    "edible": "No",
+    "type": "small herb",
+    "habitat": "mountain tops and cool damp rocky areas",
+    "notes": "Only occurs in cold microhabitats in northern New England and further northward."
+  },
+  {
+    "commonName": "Dwarf Ginseng",
+    "latinName": "Panax trifolium",
+    "edible": "Yes",
+    "type": "herbaceous perennial",
+    "habitat": "damp woods w/ good humus layer; often near streams",
+    "notes": "Small, spherical tuber is edible - harvest only when abundant."
+  },
+  {
+    "commonName": "Passionfruit (Maypops)",
+    "latinName": "Passiflora incarnata",
+    "edible": "No*",
+    "type": "herbaceous vine",
+    "habitat": "railroad ballast and waste places - likes full sun",
+    "notes": "*Non-native to MA - Native to Zone 7 and higher - can grow in lower zones in warmer microclimates."
+  },
+  {
+    "commonName": "Ground Cherry, Husk Tomato",
+    "latinName": "Physalis spp. (*P. heterophylla is native to MA)",
+    "edible": "Yes*",
+    "type": "annual (P. heterophylla is perennial)",
+    "habitat": "edges of cultivated fields; likes sun",
+    "notes": "Ripe, tomato-like berries enclosed in papery husk (calyx) - ripens late summer onward."
+  },
+  {
+    "commonName": "Pokeweed",
+    "latinName": "Phytolacca americana",
+    "edible": "Yes",
+    "type": "herbaceous perennial",
+    "habitat": "field edges; roadsides; dirt piles and other disturbed areas; likes sun",
+    "notes": "Only edible part are cooked shoots 4 - 10\" high (be sure to avoid the highly cathartic root)."
+  },
+  {
+    "commonName": "White Pine",
+    "latinName": "Pinus strobus",
+    "edible": "Yes",
+    "type": "medium to large tree",
+    "habitat": "often grows in extensive stands in former old fields",
+    "notes": "Young needles, branchlets, male cones are edible raw or cooked; needles used for tea."
+  },
+  {
+    "commonName": "Seaside Plantain (Goosetongue)",
+    "latinName": "Plantago maritima var. juncoides",
+    "edible": "Yes",
+    "type": "herbaceous perennial up to 10 \" tall",
+    "habitat": "rocky areas near the ocean",
+    "notes": "Be careful not to mix up with Arrowgrass, Triglochin maritima, which can be poisonous."
+  },
+  {
+    "commonName": "May Apple",
+    "latinName": "Podophyllum peltatum",
+    "edible": "Yes*",
+    "type": "herbaceous perennial",
+    "habitat": "understory plant in hardwood forests with rich soil",
+    "notes": "*Native status in MA is uncertain; ripe fruit is only edible part of plant."
+  },
+  {
+    "commonName": "Solomon's Seal",
+    "latinName": "Polygonatum spp.",
+    "edible": "Yes",
+    "type": "herbaceous perennial",
+    "habitat": "understory species in hardwood forests with rich humus layer",
+    "notes": "Young shoots are edible."
+  },
+  {
+    "commonName": "Pickerelweed",
+    "latinName": "Pontedaria cordata",
+    "edible": "Yes",
+    "type": "herbaceous perennial aquatic emergent",
+    "habitat": "shallow margins of lakes, ponds and meandering rivers",
+    "notes": "Young leaves and seeds are edible (but might not be tasty).",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "American Plum",
+    "latinName": "Prunus americana",
+    "edible": "Yes",
+    "type": "small tree",
+    "habitat": "sunny fields, roadsides, power line corridors",
+    "notes": "Smallish fruit, red when ripe, varies in flavor but can be just about as good as a domesticated plum.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Beach Plum",
+    "latinName": "Prunus maritima",
+    "edible": "Yes",
+    "type": "small shrubby tree (to 8 feet tall)",
+    "habitat": "dunes and other sandy areas near coastline",
+    "notes": "Can be found in sandy areas inland.",
+    "regions": ["Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Canada Plum",
+    "latinName": "Prunus nigra",
+    "edible": "Yes",
+    "type": "small tree",
+    "habitat": "sunny fields, roadsides, power line corridors",
+    "notes": "Smallish fruit, red when ripe, varies in flavor but can be just about as good as a domesticated plum.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Fire or Pin Cherry",
+    "latinName": "Prunus pensylvanica",
+    "edible": "Yes",
+    "type": "small tree (up to 25 feet)",
+    "habitat": "pioneer species colonizing clearings and old fields",
+    "notes": "Bright red fruit is very small but pleasant-tasting - ripens in July.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Black Cherry",
+    "latinName": "Prunus serotina",
+    "edible": "Yes",
+    "type": "medium to large tree",
+    "habitat": "pioneer species in cleared areas; field edges/roadsides",
+    "notes": "Cherries ripen in the latter half of summer.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Choke Cherry",
+    "latinName": "Prunus virginiana",
+    "edible": "Yes",
+    "type": "shrubby small tree (to 12 ft.)",
+    "habitat": "old fields; field edges; roadsides; clearings - tolerates cool climate",
+    "notes": "A bit more common in northern New England than southern NE.",
+    "regions": ["New Hampshire South", "Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Bracken Fern",
+    "latinName": "Pteridium aquilinum",
+    "edible": "Yes",
+    "type": "herbaceous perennial fern",
+    "habitat": "old fields; clearings; tolerates drier conditions than most other ferns",
+    "notes": "Edible cooked fiddleheads are tasty but carcinogenic in large amounts; eat sparingly (if at all).",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Spring"]
+  },
+  {
+    "commonName": "Mountain Mint",
+    "latinName": "Pycnanthemum spp.",
+    "edible": "Yes",
+    "type": "small herb",
+    "habitat": "edges of woods roads",
+    "notes": "Can be uncommon so use sparingly when gathering from the wild.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "White Oak",
+    "latinName": "Quercus alba",
+    "edible": "Yes",
+    "type": "medium to large tree",
+    "habitat": "hardwood forests; field edges; roadsides",
+    "notes": "Acorns from this species tend to have lower levels of tannic acid, thereby requiring less leaching.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Fall"]
+  },
+  {
+    "commonName": "Swamp White Oak",
+    "latinName": "Quercus bicolor",
+    "edible": "Yes",
+    "type": "medium to large tree",
+    "habitat": "wooded swamps; floodplains",
+    "notes": "Acorns have reputedly less tannic acid content than most other Oak species.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Fall"]
+  },
+  {
+    "commonName": "Chestnut Oak",
+    "latinName": "Quercus prinus",
+    "edible": "Yes",
+    "type": "medium to large tree",
+    "habitat": "can tolerate dry, rocky and/or sloping conditions",
+    "notes": "Acorns are edible after processing (leaching out the tannic acid).",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Fall"]
+  },
+  {
+    "commonName": "Red Oak",
+    "latinName": "Quercus rubra",
+    "edible": "Yes",
+    "type": "medium to large tree",
+    "habitat": "in forests, roadsides",
+    "notes": "Acorns are edible, but may require more extensive leaching than Q. alba to render them palatable.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Fall"]
+  },
+  {
+    "commonName": "Meadow Beauty",
+    "latinName": "Rhexia virginica",
+    "edible": "Yes",
+    "type": "small herb",
+    "habitat": "wet open meadows and lake/pond shorelines",
+    "notes": "Whole plant has tangy flavor; uncommon so use sparingly.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Roseroot",
+    "latinName": "Rhodiola rosea",
+    "edible": "No",
+    "type": "herbaceous perennial",
+    "habitat": "rocky exposed areas - usually close to the ocean",
+    "notes": "Mostly found in cold rocky coastal habitats in Maine and further northward - roots smell like roses.",
+    "regions": ["Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Labrador Tea",
+    "latinName": "Rhododendron (Ledum) groenlandicum",
+    "edible": "No",
+    "type": "small shrub",
+    "habitat": "acidic, open rocky or boggy habitats",
+    "notes": "More common in northern New England and further north - leaves used (in moderation) for tea.",
+    "regions": ["Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Spring", "Summer"]
+  },
+  {
+    "commonName": "Winged (aka Shining) Sumac",
+    "latinName": "Rhus copallinum",
+    "edible": "Yes",
+    "type": "shrub",
+    "habitat": "sunny fields, roadsides, power line corridors",
+    "notes": "Sour fruit used to make a pink lemonade-like beverage.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Smooth Sumac",
+    "latinName": "Rhus glabra",
+    "edible": "Yes",
+    "type": "shrub",
+    "habitat": "old fields; field edges; roadsides",
+    "notes": "Red fruit used to make a pink lemonade-like drink - peeled young shoots are also edible.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Staghorn Sumac",
+    "latinName": "Rhus typhina (hirta)",
+    "edible": "Yes",
+    "type": "Shrub to 15 feet tall",
+    "habitat": "old fields; field edges; clearings",
+    "notes": "Red fruit used to make a pink lemonade-like drink - peeled young shoots are also edible.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Currants/Gooseberries",
+    "latinName": "Ribes triste and",
+    "edible": "Yes*",
+    "type": "small perennials (up to 4')",
+    "habitat": "understory plant in damp",
+    "notes": "Mixture of native/introduced species.",
+    "regions": ["Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Wild Rose",
+    "latinName": "Rosa spp.",
+    "edible": "Yes*",
+    "type": "shrub",
+    "habitat": "old fields, swamps",
+    "notes": "The non-native Rosa rugosa is better species for eating due to its larger + tastier petals and hips.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Spring", "Summer"]
+  },
+  {
+    "commonName": "Dewberry",
+    "latinName": "Rubus hispidus",
+    "edible": "Yes",
+    "type": "Prostrate blackberry",
+    "habitat": "old fields; clearings",
+    "notes": "Fruit has the same size, appearance and flavor as upright blackberry species.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Red Raspberry",
+    "latinName": "Rubus idaeus",
+    "edible": "Yes",
+    "type": "herbaceous perennial",
+    "habitat": "old fields; field edges; woods",
+    "notes": "Tea made from the fresh or thoroughly dried leaves is edible, + medicinal for AFAB individuals.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Black Raspberry",
+    "latinName": "Rubus occidentalis",
+    "edible": "Yes",
+    "type": "herbaceous perennial",
+    "habitat": "likes field edges",
+    "notes": "Purplish-colored canes make the plants easy to spot in the 'off-season'.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Flowering Raspberry",
+    "latinName": "Rubus odoratus",
+    "edible": "Yes",
+    "type": "herbaceous perennial",
+    "habitat": "roadsides; wooded clearings; likes cool damp conditions",
+    "notes": "Showy pink flower + large maple-like leaves; not thorny- fruit pulp is a bit thin + dry but OK taste.",
+    "regions": ["Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Blackberry",
+    "latinName": "Rubus spp.",
+    "edible": "Yes",
+    "type": "herbaceous perennial",
+    "habitat": "old fields; field edges/roadsides; clearings",
+    "notes": "R. allegheniensis, pensilvanicus + several other spp. are native to MA.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Arrowhead (Wapato or Duck Potato)",
+    "latinName": "Sagittaria latifolia",
+    "edible": "Yes",
+    "type": "herbaceous perennial emergent aquatic",
+    "habitat": "shallow areas of lakes + ponds; sunny swamps",
+    "notes": "Edible tubers are available OConnecticut.-Mar.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Spring", "Summer"]
+  },
+  {
+    "commonName": "Glasswort",
+    "latinName": "Salicornia spp.",
+    "edible": "Yes",
+    "type": "herb",
+    "habitat": "Grows in salty areas in coastal marshes",
+    "notes": "Tender portions of plants can be eaten raw, steamed or pickled; pick tender tips only.",
+    "regions": ["Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Elderberry, Common/Black",
+    "latinName": "Sambucus nigra (aka canadensis)",
+    "edible": "Yes",
+    "type": "shrub (to 10 ft' tall)",
+    "habitat": "wet open meadows",
+    "notes": "Flowers used for beverages and fritters; ripe fruit edible after drying or cooking.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Sassafras",
+    "latinName": "Sassafras albidum",
+    "edible": "Yes",
+    "type": "small tree (to 30 ft., but usually much smaller)",
+    "habitat": "understory tree in hardwood forests; field edges; roadsides",
+    "notes": "Aromatic root bark used for tea, candy, etc. - young leaves are dried for file powder.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Spring", "Summer"]
+  },
+  {
+    "commonName": "Saxifrage",
+    "latinName": "Saxifraga spp.",
+    "edible": "Yes",
+    "type": "herb",
+    "habitat": "woodland seeps, esp. non-acidic",
+    "notes": "Young leaves of several species are edible.",
+    "regions": ["Maine South"],
+    "season": ["Spring", "Summer"]
+  },
+  {
+    "commonName": "Bulrush, Common (Soft-stemmed)",
+    "latinName": "Schoenoplectus tabernaemontani",
+    "edible": "Yes",
+    "type": "herbaceous perennial emergent aquatic",
+    "habitat": "shallow ponds and open swamps",
+    "notes": "The plant is reputed to be edible in a similar fashion as cattail.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Carrion Flower",
+    "latinName": "Smilax herbacea",
+    "edible": "Yes",
+    "type": "herbaceous perennial thornless vine",
+    "habitat": "damp meadows + field/roadside edges; stinky flowers pollinated by carrion flies",
+    "notes": "Harvest, cook and eat shoots like Asparagus (a relative).",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Spring", "Summer"]
+  },
+  {
+    "commonName": "Sweet Goldenrod",
+    "latinName": "Solidago odora",
+    "edible": "Yes",
+    "type": "herb",
+    "habitat": "old fields; rocky areas; under power lines; sandy areas near the ocean",
+    "notes": "Native to all counties in MA - leaves and flowers have a licorice-like flavor.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Twisted Stalk",
+    "latinName": "Streptopus lanceolatus",
+    "edible": "Yes*",
+    "type": "herb",
+    "habitat": "rich woods; woodlands with rich humus layer",
+    "notes": "Species is 'watch-listed' in MA, so shouldn't be harvested from the wild in that state.",
+    "regions": ["Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Cattail, Common",
+    "latinName": "Typha latifolia",
+    "edible": "Yes",
+    "type": "herbaceous perennial aquatic emergent",
+    "habitat": "shallow areas of waterways; marshy areas - likes full sun",
+    "notes": "Has at least five different edible parts.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Spring", "Summer"]
+  },
+  {
+    "commonName": "Elm, Slippery",
+    "latinName": "Ulmus rubra",
+    "edible": "Yes",
+    "type": "medium-sized tree",
+    "habitat": "damp fields; floodplains",
+    "notes": "Seeds and inner bark are edible.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Spring", "Summer"]
+  },
+  {
+    "commonName": "Red Trillium/Wakerobin",
+    "latinName": "Trillium erectum",
+    "edible": "Yes",
+    "type": "herbaceous perennial",
+    "habitat": "moist, deciduous forests, under ash, sugar maple or basswood",
+    "notes": "Young leaves edible raw or cooked + taste like cucumber; gather only when abundant.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Spring", "Summer"]
+  },
+  {
+    "commonName": "Blueberry, Lowbush",
+    "latinName": "Vaccinium angustifolium",
+    "edible": "Yes",
+    "type": "small shrub (up to 2 ft tall)",
+    "habitat": "acidic woodlands, old fields, rocky and boggy areas",
+    "notes": "Flowers and berries are edible.",
+    "regions": ["Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Blueberry, Highbush",
+    "latinName": "Vaccinium corymbosum",
+    "edible": "Yes",
+    "type": "shrub (up to 8 ft tall)",
+    "habitat": "acidic woodlands, old fields, lake/pond shorelines",
+    "notes": "Flowers and berries are edible.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Cranberry, Small",
+    "latinName": "Vaccinium oxycoccos",
+    "edible": "Yes",
+    "type": "prostrate vine - rarely more than a foot tall",
+    "habitat": "acid bogs and seeps - likes sun",
+    "notes": "Fruit has similar flavor (albeit smaller than) V. macrocarpon: cranberry species that is cultivated.",
+    "regions": ["Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Deerberry",
+    "latinName": "Vaccinium stamineum",
+    "edible": "Yes",
+    "type": "Small shrub",
+    "habitat": "likes acidic rocky areas",
+    "notes": "Berries are edible.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Cranberry, Mountain",
+    "latinName": "Vaccinium vitis-idaea",
+    "edible": "Yes*",
+    "type": "low-growing perennial (up to 1' tall)",
+    "habitat": "mountain peaks and cool habitats in northern New England",
+    "notes": "Same species as Lingonberry - *listed as endangered in MA.",
+    "regions": ["Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Squashberry",
+    "latinName": "Viburnum edule",
+    "edible": "No*",
+    "type": "shrub",
+    "habitat": "open meadows, along streams + rural roadsides;*natural range is N. part of N.NE",
+    "notes": "V. edule is consistently tasty (though tart) and is the tastiest of the various 'highbush cranberries'.",
+    "regions": ["Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Hobblebush (Moosewood)",
+    "latinName": "Viburnum lantanoides (alnifolium)",
+    "edible": "Yes",
+    "type": "shrub",
+    "habitat": "common understory plant in cool forests",
+    "notes": "Fruit ripens and September and tastes like a prune with a hint of clove.",
+    "regions": ["Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Nannyberry",
+    "latinName": "Viburnum lentago",
+    "edible": "Yes",
+    "type": "shrub",
+    "habitat": "wet meadows; near waterways",
+    "notes": "Fruit ripens in September and is prune-like in flavor and texture.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Wild Raisin",
+    "latinName": "Viburnum nudum or cassinoides",
+    "edible": "Yes",
+    "type": "shrub",
+    "habitat": "understory plant in open hardwood forests",
+    "notes": "Small fruit are ripe when purply-black in color.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Summer"]
+  },
+  {
+    "commonName": "Black Haw",
+    "latinName": "Viburnum prunifolium",
+    "edible": "No*",
+    "type": "shrub",
+    "habitat": "damp meadows - likes partial to full sun - native only as far as  SW New England",
+    "notes": "Ripe fruit is edible, with prune-like texture and flavor.",
+    "regions": ["Connecticut West"],
+    "season": ["Fall"]
+  },
+  {
+    "commonName": "Highbush Cranberry",
+    "latinName": "Viburnum trilobum",
+    "edible": "Yes",
+    "type": "shrub",
+    "habitat": "sunny swampy areas - more common in northern New England",
+    "notes": "Don't plant V. opulus, a European species that tastes horrible.",
+    "regions": ["Maine South"],
+    "season": ["Fall"]
+  },
+  {
+    "commonName": "Violet, Common Blue or Dooryard",
+    "latinName": "Viola sororia",
+    "edible": "Yes",
+    "type": "perennial herb",
+    "habitat": "fields; meadows",
+    "notes": "There are many other violets, some rare + some w/ laxative effeConnecticut - stick to eating this species.",
+    "regions": ["Maine South"],
+    "season": ["Spring", "Summer"]
+  },
+  {
+    "commonName": "Fox Grape",
+    "latinName": "Vitis labrusca",
+    "edible": "Yes",
+    "type": "perennial vine",
+    "habitat": "roadsides; field edges; river banks",
+    "notes": "Large grapes are ripe the second week of Sept. - young leaves may be stuffed.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Fall"]
+  },
+  {
+    "commonName": "Riverside Grape",
+    "latinName": "Vitis riparia",
+    "edible": "Yes",
+    "type": "perennial vine",
+    "habitat": "roadsides, fences, field edges; river banks",
+    "notes": "Fruit is smaller, ripens later and not as tasty as V. labrusca - young leaves are good for stuffing.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Fall"]
+  },
+  {
+    "commonName": "Prickly-ash, Common",
+    "latinName": "Zanthoxylum americanum",
+    "edible": "Yes",
+    "type": "small tree",
+    "habitat": "sunny roadsides, power lines, occurs mostly in w. N.E. where soil is less acidic",
+    "notes": "Fruit and foliage have a mouth-numbing quality; fruit is related to Szechuan peppercorns.",
+    "regions": ["Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South", "Maine South"],
+    "season": ["Summer", "Fall"]
+  },
+  {
+    "commonName": "Wild Rice, Southern",
+    "latinName": "Zizania aquatica",
+    "edible": "Yes",
+    "type": "aquatic (emergent) grass",
+    "habitat": "still and slow-moving shallow water, rooted in silty and muddy flats",
+    "notes": "Ripe seed of this grass is 'wild rice.'",
+    "regions": ["Connecticut South", "Connecticut East", "Connecticut West", "Vermont South", "New Hampshire South"],
+    "season": ["Fall"]
+  },
+  {
+    "commonName": "Wild Rice, Northern",
+    "latinName": "Zizania palustris",
+    "edible": "Yes*",
+    "type": "aquatic (emergent) grass",
+    "habitat": "still and slow-moving shallow water, rooted in silty and muddy flats",
+    "notes": "Ripe seed is 'wild rice'; Z. palustris is a listed species in MA so should not be harvested there.",
+    "regions": ["Maine South"],
+    "season": ["Fall"]
+  }
+]
+}
